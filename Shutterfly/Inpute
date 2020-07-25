@@ -1,0 +1,6 @@
+##is used to separate locator type and values
+browsername=Chrome
+baseURL=https://www.shutterfly.com/
+home.title=https://www.shutterfly.com/
+hovermouse=XPATH##//span[@class='cat-item-text']/parent::a[@id='cat-link-18970']
+SigninClick=XPATH##//*[@id="user-menu"]/span
